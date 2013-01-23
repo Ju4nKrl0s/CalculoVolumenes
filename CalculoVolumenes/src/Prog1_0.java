@@ -15,6 +15,9 @@ public class Prog1_0 {
 		radio=leerradio.nextInt(); 
 		
 		System.out.println("Fin del programa.");
+		
+		
+		System.out.println("Hola juan carlillos");
 	}
 
 }
